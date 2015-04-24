@@ -210,7 +210,14 @@ href="http://unbounce.com/">Unbounce</a> &#8211; Build landing pages without I.T
 href="http://www.codengo.com/">CodeNgo</a> &#8211; App Store Management, Distribution &amp; Promotional Services</li><li><a
 href="http://www.preapps.com/">PreApps</a> &#8211; New iPhone, iPad, Android, Windows Apps <a
 href="http://promo.worddata.com/promotions/">[WordData Promotions: 10% off PreApps marketing services]</a></li></ul><p>&nbsp;</p><h2 id="AppStoreOptimization">14. App Store Optimization</h2><ul><li><a
-href="http://www.worddata.com">WordData</a> &#8211; A tool designed from the ground up focusing on App Store Optimization.</li></ul><p>&nbsp;</p><h2 id="AppDownloads">15. App Downloads and Revenue Tracking</h2><ul><li><a
+href="http://www.worddata.com">WordData</a> &#8211; A tool designed from the ground up focusing on App Store Optimization.</li>
+<li><a href="https://mobiledevhq.com/">MobileDevHQ</a> &#8211; Mobile app marketing tools by MobileDevHQ</li>
+<li><a href="https://sensortower.com/">Sensor Tower</a> &#8211; Sensor Tower | App Store Optimization (ASO) | iOS Android</li>
+<li><a href="https://appmind.co/">AppMind</a> &#8211; Discover Any iOS App's Keywords</li>
+<li><a href="https://searchman.com/">SearchMan</a> &#8211; App Store Optimization &amp; SEO Software, Made Easy</li>
+</ul><p>
+
+&nbsp;</p><h2 id="AppDownloads">15. App Downloads and Revenue Tracking</h2><ul><li><a
 href="http://www.appannie.com/">App Annie</a> &#8211; App Ranking, Analytics, Market Intelligence</li><li><a
 href="http://appbot.co/">AppBot</a> &#8211; App Store reviews, rankings, ASO search emailed straight to your inbox</li><li><a
 href="http://appfigures.com/">AppFigures</a> &#8211; App Store Analytics, iTunes Analytics, Sales Reports and Adnetworking Tracking for iOS and Android developers</li><li><a
